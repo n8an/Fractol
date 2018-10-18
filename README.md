@@ -10,6 +10,7 @@ make && ./fractol "Fractal name"
 # Julia
 ![](https://raw.githubusercontent.com/vnekhay/Fractol/master/Fractol_gif.gif)
 # Mandelbrot
+![haha](https://github.com/vnekhay/Fractol/master/Fractol_Mandelbrot.png)
 ![](https://raw.githubusercontent.com/vnekhay/Fractol/master/Fractol_Mandelbrot.png)
 # BurningShip
 ![](https://raw.githubusercontent.com/vnekhay/Fractol/master/Fractol_BurningShip.png)
