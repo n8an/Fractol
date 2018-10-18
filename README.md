@@ -8,7 +8,8 @@ using C language and mlx graphic library(OpenGL based)
 make && ./fractol "Fractal name"
 ```
 # Julia
-![](https://raw.githubusercontent.com/vnekhay/Wolf3d/master/Fractol_gif.gif)
+![](https://raw.githubusercontent.com/vnekhay/Fractol/master/Fractol_gif.gif)
 # Mandelbrot
-
+![](https://raw.githubusercontent.com/vnekhay/Fractol/master/Fractol_Mandelbrot.png)
 # BurningShip
+![](https://raw.githubusercontent.com/vnekhay/Fractol/master/Fractol_BurningShip.png)
