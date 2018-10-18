@@ -7,5 +7,8 @@ using C language and mlx graphic library(OpenGL based)
 ``` bash
 make && ./fractol "Fractal name"
 ```
-# Example
+# Julia
 ![](https://raw.githubusercontent.com/vnekhay/Wolf3d/master/Fractol_gif.gif)
+# Mandelbrot
+
+# BurningShip
